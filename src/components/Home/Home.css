@@ -1,0 +1,19 @@
+.main_header {
+  text-align: center;
+  padding-top: 44px;
+  padding-bottom: 70px;
+}
+
+.main_container {
+  display: flex;
+}
+
+.main_header h1 {
+  padding-bottom: 20px;
+  font-size: 36px;
+}
+
+section {
+  width: 66%;
+  margin: 0% 1% 0% 1%;
+}

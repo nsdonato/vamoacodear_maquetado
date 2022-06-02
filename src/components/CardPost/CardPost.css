@@ -1,0 +1,47 @@
+.card_container {
+  padding: 10px 30px 10px 15px;
+}
+
+.card_header,
+.card_header h1 {
+  padding-bottom: 20px;
+}
+
+span.card_date {
+  opacity: 0.6;
+}
+
+.card_main {
+  padding-bottom: 25px;
+  font-size: 15px;
+}
+
+.card_row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-bottom: 20px;
+  font-size: 15px;
+}
+
+.card_row_btn {
+  padding: 15px 25px;
+  background-color: inherit;
+  border: none;
+  border: 1px solid #ccc;
+  font-family: inherit;
+  font-size: 15px;
+}
+
+.card_row_btn:hover {
+  background-color: #ccc;
+}
+
+.card_row_comments {
+  text-align: left;
+}
+
+.card_row_comments_count {
+  padding: 3px 8px;
+  color: #ffffff;
+}

@@ -1,0 +1,44 @@
+.card_container {
+  padding: 10px 30px 10px 15px;
+}
+
+.card_container h3,
+.card_container p {
+  padding-bottom: 20px;
+}
+
+.card_popular_posts_header {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+.card_popular_posts_header span {
+  font-size: 18x;
+}
+
+.card_popular_posts_list {
+  list-style: none;
+  background-color: white;
+}
+
+.card_popular_posts_list li {
+  border-bottom: 1px solid #ccc;
+}
+
+.card_popular_posts_list li:hover {
+  background-color: #ccc;
+}
+
+.card_popular_posts_container {
+  display: flex;
+  padding: 15px;
+}
+
+.card_popular_posts_img_container {
+  width: 50px;
+}
+
+.card_popular_posts_text {
+  align-self: center;
+  padding-left: 20px;
+}

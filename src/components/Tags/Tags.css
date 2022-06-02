@@ -1,0 +1,18 @@
+.card_tags {
+  padding-bottom: 15px;
+}
+
+.card_tags_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.card_tags_container span {
+  margin: 8px 2px;
+}
+
+.card_tags_header {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
